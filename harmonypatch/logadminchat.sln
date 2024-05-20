@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harmonypatch", "harmonypatch.csproj", "{BE66719A-B9B6-46FC-BEE9-D1C6E01DDF22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE66719A-B9B6-46FC-BEE9-D1C6E01DDF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE66719A-B9B6-46FC-BEE9-D1C6E01DDF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE66719A-B9B6-46FC-BEE9-D1C6E01DDF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE66719A-B9B6-46FC-BEE9-D1C6E01DDF22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4F3E1B1-5532-4C68-B3D6-B4FDF5E31A8F}
+	EndGlobalSection
+EndGlobal
