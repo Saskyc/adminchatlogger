@@ -62,7 +62,7 @@ namespace harmonypatch.patches
                         return true;
                     }
                 }
-                return false;
+                return true;
             }
             
            text = $"NICKNAME: {player.Nickname} ({player.UserId}) MESSAGE: {q} \n TIME:{DateTime.Now}";
